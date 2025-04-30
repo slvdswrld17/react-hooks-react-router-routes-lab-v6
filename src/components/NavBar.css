@@ -9,9 +9,9 @@
     text-align: center;
     font-size: min(10vw, 15px) ;
     color: black;
-}
+  }
   
-a.active {
+  a.active {
     background: black;
     color: white;
-}
+  }
